@@ -1,9 +1,13 @@
-# ¿Cuál es la diferencia entre ser Tech Lead y ser Manager?
+---
+title: ¿Cuál es la diferencia entre ser Tech lead y ser Manager? 
+date: 2020/11/09
+description: ¿Son lo mismo? ¿Cuáles son mis responsabilidades? ¿Qué es lo que se espera de mi? 
+tag: career-paths
+author: Florencia Mincucci
+---
 
-Authors: Florencia Mincucci
-Date: Nov 9, 2020
-Published: Yes
-Slug: tl-vs-manager
+
+# ¿Cuál es la diferencia entre ser Tech Lead y ser Manager?
 
 ¿Son lo mismo? ¿Cuáles son mis responsabilidades? ¿Qué es lo que se espera de mí?
 

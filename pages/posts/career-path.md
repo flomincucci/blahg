@@ -1,13 +1,15 @@
+---
+title: No, ser manager no es necesariamente el siguiente paso en tu carrera 
+date: 2020/11/10
+description: Durante mucho tiempo creí, equivocadamente, que el camino natural de una persona que programa durante el suficiente tiempo era convertirse en jefe del resto. 
+tag: career-paths
+author: Florencia Mincucci
+---
+
 # No, ser manager no es necesariamente el siguiente paso en tu carrera
 
-Authors: Florencia Mincucci
-Date: Nov 10, 2020
-Published: Yes
-Slug: cambiando-caminos
 
 Durante mucho tiempo creí, equivocadamente, que el camino natural de una persona que programa durante el suficiente tiempo era convertirse en jefe del resto. 
-
----
 
 No es casual: por algún motivo creemos que quien tiene más experiencia es quien debe tomar el rol de guiar al resto. Pero lo peor no es que lo creamos sino ****que muchas personas toman decisiones basadas en esta creencia y esto lleva a que nos encontremos a mucha gente haciendo gestión que odia lo que hace y, sobretodo, no sabe cómo hacerlo bien o cómo mejorar.
 

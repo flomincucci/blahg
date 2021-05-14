@@ -1,13 +1,13 @@
-# Lecturas recomendadas
-
-Authors: Florencia Mincucci
-Date: Nov 9, 2020
-Published: Yes
-Slug: bibliografia
-
-Cosas que leí y me gustaron
-
 ---
+title: Lecturas recomendadas 
+date: 2020/11/09
+description: Cosas que leí y me gustaron 
+tag: books 
+author: Florencia Mincucci
+---
+
+
+# Lecturas recomendadas
 
 - [LIBRO] [The manager's path](https://www.oreilly.com/library/view/the-managers-path/9781491973882/) de Camille Fournier
 - [LIBRO] [Resilient Management](https://abookapart.com/products/resilient-management) de Lara Hogan
